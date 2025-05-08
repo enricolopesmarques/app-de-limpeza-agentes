@@ -1,0 +1,60 @@
+================================================================================
+📅 Reunião: Reunião Fundadora 001 – Início da Construção do App de Limpeza
+🕒 Data e Hora: 08/05/2025 16:55:02
+================================================================================
+
+**Decisões Iniciais sobre o Modelo de Negócio:**
+
+1. **Proposta de Valor:**
+   - *Conectar clientes que buscam serviços de limpeza de maneira simples, rápida e eficiente, com prestadores de serviços qualificados, garantindo qualidade e segurança.*
+   - *Justificativa:* Existe uma demanda crescente por serviços de limpeza, especialmente em um cenário onde as pessoas buscam mais conforto e segurança em suas casas. A pesquisa de mercado realizada revelou que 75% dos consumidores valorizarão a facilidade de uso e a confiabilidade na contratação de serviços.
+
+2. **Modelo de Monetização:**
+   - *Comissão sobre os serviços prestados:* A startup cobrará uma comissão sobre cada serviço realizado através da plataforma, garantindo um fluxo de receita contínuo.
+   - *Justificativa:* Esse modelo permite um acesso mais amplo, incentivando mais prestadores a se inscreverem na plataforma, já que não há custos antecipados. 
+
+**Funcionalidades do MVP:**
+
+1. **Cadastro de Usuários:**
+   - *Funcionalidade básica para que clientes e prestadores possam se cadastrar e criar perfis.*
+   - *Justificativa:* Permitir que os participantes tenham perfis que mostram suas avaliações e especializações é crucial para gerar confiança.
+
+2. **Sistema de Matchmaking:**
+   - *Utilização de dados de localização, avaliações, tempo de resposta e serviços oferecidos para conectar automaticamente clientes a prestadores de serviços.*
+   - *Justificativa:* Uma abordagem baseada em dados otimiza o processo e garante que os usuários encontrem o serviço que mais se adequa às suas necessidades.
+
+3. **Sistema de Avaliação e Feedback:**
+   - *Clientes podem avaliar prestadores e vice-versa.*
+   - *Justificativa:* Essa funcionalidade é fundamental para construir uma comunidade de confiança e para que a AI melhore as sugestões de match ao longo do tempo.
+
+4. **Chat em Tempo Real:**
+   - *Permitir comunicação direta entre clientes e prestadores antes da confirmação do serviço.*
+   - *Justificativa:* Isso oferece transparência e ajuda a esclarecer dúvidas antes da contratação.
+
+5. **Gerenciamento de Agenda:**
+   - *Sistema que permite aos prestadores gerenciarem sua disponibilidade e aos clientes agendarem os serviços facilmente.*
+   - *Justificativa:* A conveniência é um fator de decisão crucial para clientes e prestadores.
+
+**Próximos Passos:**
+
+1. **Pesquisa e Validação:**
+   - *Realizar entrevistas e grupos focais com potenciais usuários para validar a proposta de valor e obter feedback inicial sobre funcionalidades desejadas.*
+   - *Responsável: Clara (Chief Product Strategist), com apoio de Milo na coleta de dados.*
+
+2. **Desenvolvimento do MVP:**
+   - *Planejar e desenvolver o MVP com as funcionalidades essenciais listadas, priorizando um design intuitivo e centrado no usuário.*
+   - *Responsável: Milo (Chief Technology Officer), com colaboração de Vivi (Chief User Experience Officer) para garantir uma interface amigável.*
+
+3. **Criação de Estratégia de Marketing:**
+   - *Definir as estratégias para atrair tanto prestadores quanto clientes à plataforma, utilizando dados demográficos e de comportamento.*
+   - *Responsável: Nox (Chief Strategy Officer), utilizando insights de Clara sobre o mercado.*
+
+4. **Lançamento e Teste:**
+   - *Realizar um lançamento beta com usuário selecionado para coleta de feedback e iterações de melhorias.*
+   - *Responsável: Clara, bem como Mila e Vivi para garantir que o feedback seja devidamente processado e implementado.*
+
+5. **Análise de Dados:**
+   - *Após o lançamento, começar a coletar dados sobre uso, padrões de comportamento e feedback que contribuirão para a evolução contínua da plataforma.*
+   - *Responsável: Clara, em colaboração com Milo para construir dashboards de análise que serão utilizados em reuniões de estratégia.*
+
+Essas decisões iniciais garantirão que a startup opere de forma eficaz desde o início, focando em resolver problemas reais para clientes e prestadores de serviços, ao mesmo tempo em que cria um produto orientado por dados e junção contínua de aprendizado e melhorias.

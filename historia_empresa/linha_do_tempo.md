@@ -1,0 +1,1 @@
+- 🟢 08/05/2025 – Reunião Fundadora 001 – Início da Construção do App de Limpeza

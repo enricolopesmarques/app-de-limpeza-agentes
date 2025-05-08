@@ -1,0 +1,36 @@
+================================================================================
+📅 Reunião: Reunião Fundadora 001 – Início da Construção do App de Limpeza
+🕒 Data e Hora: 08/05/2025 16:46:43
+================================================================================
+
+**Decisões Iniciais para a Startup de Conexão entre Clientes e Prestadores de Serviços de Limpeza**
+
+1. **Proposta de Valor**  
+   - **Decisão:** Oferecer uma plataforma que facilite a conexão ágil e segura entre clientes e prestadores de serviços de limpeza, baseada na confiança e na qualidade do serviço.  
+   - **Justificativa:** O mercado de limpeza é vasto, mas muitas vezes fragmentado. Os clientes buscam serviços confiáveis e de alta qualidade, enquanto os prestadores de serviços necessitam de uma maneira eficiente de encontrar clientes. Nossa proposta de valor deve destacar a segurança, a transparência e a eficiência no agendamento e pagamento, além de um suporte ao cliente robusto.  
+   - **Contribuição:** Nox apresentou uma análise de mercado que mostra que 76% dos consumidores valorizam recomendações e avaliações antes de contratar um serviço.
+
+2. **Primeiro MVP (Produto Mínimo Viável)**  
+   - **Decisão:** Criar um MVP que inclua as seguintes funcionalidades: 
+     - Registro de usuários (clientes e prestadores).
+     - Sistema de avaliação e feedback.
+     - Agendamento de serviços com opções de pagamento online.
+     - Chat integrado para comunicação entre clientes e prestadores.  
+   - **Justificativa:** Essas funcionalidades atendem à necessidade básica de conexão e comunicação entre as duas partes, e o sistema de avaliação ajudará a estabelecer confiança no serviço. Baseando-se em dados de comportamento do consumidor, sabemos que a avaliação de serviços é uma das principais influências na decisão de compra.  
+   - **Contribuição:** Milo enfatizou a importância de um sistema de pagamento seguro e uma interface intuitiva, destacando que a experiência do usuário é crucial neste estágio para garantir a retenção.
+
+3. **Próximos Passos**  
+   - **A. Pesquisa de Mercado e Validação:** Realizar entrevistas e pesquisas com potenciais usuários (clientes e prestadores de serviços) para validar a proposta de valor e funcionalidades do MVP.  
+     - **Justificativa:** Entender as dores e expectativas dos usuários ajudará a refinar o produto antes do lançamento.  
+     - **Contribuição:** Vivi destacará a importância de protótipos e testes de usabilidade para captar feedback relevante durante esta fase.
+  
+   - **B. Desenvolvimento do MVP:** Priorizar o desenvolvimento das funcionalidades mais críticas, utilizando uma abordagem ágil para garantir iterações rápidas.  
+     - **Justificativa:** O foco no desenvolvimento ágil permitirá que façamos ajustes com base no feedback dos primeiros usuários.
+     - **Contribuição:** Milo e sua equipe iniciarão a construção da arquitetura técnica e garantirão que a plataforma seja escalável.
+
+   - **C. Campanha de Lançamento:** Após o desenvolvimento inicial, planejar uma campanha de marketing focada para atrair os primeiros usuários, incluindo promoções para os primeiros prestadores de serviços a se cadastrarem.  
+     - **Justificativa:** O engajamento inicial de clientes e prestadores será fundamental para o sucesso do MVP.  
+     - **Contribuição:** Nox trabalhará em estratégias de marketing digital e parcerias locais para aumentar a visibilidade da plataforma.
+
+**Conclusão:**  
+Essas decisões iniciais estabelecem uma base sólida para o lançamento da nossa startup. Ao nos concentrarmos em dados, inteligência artificial e em colocar o cliente no centro, temos a oportunidade de criar uma plataforma que não apenas atende a necessidades imediatas, mas também se adapta e evolui conforme o mercado demanda.
